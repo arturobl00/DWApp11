@@ -14,13 +14,13 @@ const Agregar = () => {
             console.log('texto vacío')
             return
         }
-        agregarMensaje(usuario.uid, mensaje)
+        agregarMensaje(usuario.uid, mensaje, usuario.email)
         setMensaje('')
     }
 
     return (
         <form 
-            className="input-group fixed-bottom p-3 bg-dark"
+            className="input-group fixed-bottom p-4 bg-dark container"
             onSubmit={formulario}
         >
             <input 

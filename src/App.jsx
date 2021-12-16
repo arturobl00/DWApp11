@@ -8,14 +8,15 @@ const App = () => {
     const {usuario} = React.useContext(ChatContext)
 
     return usuario.activo !== null ? (
-        <div>
+        <div className='container'>
             <Navbar />
             {
                 usuario.activo ? (
                     <Chat/>
                 ) : (
                     <div className='text-center mt-5 lead'>
-                        click en acceder para iniciar chat
+                        <br/>
+                        <p>Click en acceder para iniciar chat</p>
                     </div>
                 )
             }
