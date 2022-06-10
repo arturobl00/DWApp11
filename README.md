@@ -1,4 +1,35 @@
-# Getting Started with Create React App
+# Manual de Operación de la aplicación y Descripción de implementación
+Este proyecto de desarrollo de software fue realizado por:
+Participantes
+Responsable: MTI. JOSÉ ARTURO BUSTAMANTE LAZCANO
+Colaborador 1: DR. LUIS ANTONIO PEREDA JIMÉNEZ
+Colaborador 2: ING. JOSÉ ANTONIO MORALES FLORES
+
+## Linea de Investigación
+Generación y Aplicación del Conocimiento (LGAC): LGAC-2017-SSNA-ISCO-05
+
+## Su Objetivo:
+Desarrollar una aplicación reactiva que permita realizar operaciones de mensajería instantánea con una colección de base de datos no estructurada, alojada en un servidor web.
+
+## Paso para su uso:
+1.- Ingresar el sitio: https://michatreact.web.app/
+Nota se puede ingresar desde cualquier navegador web en equipo de cómputo o celular.
+![image](https://user-images.githubusercontent.com/44816412/173076798-b4d1c087-f3f2-4b99-84f6-fd11a2824c63.png)
+
+2.- Dar clic en el botón de ingresar parte superior derecha para cargar el proceso de autenticación de la cuenta.
+![image](https://user-images.githubusercontent.com/44816412/173077358-ed754207-b12c-47ec-8a4a-ea97e841f7c4.png)
+
+3.- Seleccionar el perfil de la cuenta para iniciar el conversatorio.
+![image](https://user-images.githubusercontent.com/44816412/173077552-70e6e895-f51c-4ed0-af4c-71f828c3052f.png)
+
+4.- En la parte inferior escribir el mensaje y dar clic en el botón enviar
+![image](https://user-images.githubusercontent.com/44816412/173077811-2923eb01-78be-497e-840a-613c6fb80373.png)
+
+5.- Interactuar con los usuarios los cuales se diferencias por colores el usuario activo en color azul y los usuarios participantes en verde
+![image](https://user-images.githubusercontent.com/44816412/173078061-e4da8fea-dd5a-4fca-9ac8-4e8549cab064.png)
+
+6.- Para terminar la sesión se da clic en el botón salir ubicado en la parte superior derecha lo que nos retornara a la página de inicio.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -9,7 +40,8 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![image](https://user-images.githubusercontent.com/44816412/173077082-ac200c32-3400-4d49-8f4d-19ecc118c52a.png)
+
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
